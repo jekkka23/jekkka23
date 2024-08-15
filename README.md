@@ -1,12 +1,13 @@
 # Всем привет! Меня зовут Евгений 👋  <a href="https://t.me/palmeka"><img src="images/icons/TGBig.png" alt="Telegram Icon" width="25" height="25"/></a>
 
 <p>Я являюсь специалистом по автоматизации тестирования на Java! <img height="25" src="images/icons/java.svg" width="25"/></a> <br/>Мой опыт работы — 4 года.</p> 
-<p><a href="https://t.me/palmeka">Я всегда на связи в Telegram</a> <a href="https://t.me/palmeka"><img src="images/icons/TGBig.png" alt="Telegram Icon" width="25" height="25"/></a>
  
 ><br/>Коммерческий опыт. Проекты для которых я разрабатывал автоматизацию тестирования:
 ><br/>
 <br/>- **SBER** <a href="https://www.sberbank.ru"><img height="25" src="images/icons/sbersber.png" width="25"/></a>
 <br/>- **Сitilink.ru** <a href="https://www.citilink.ru"><img height="25" src="images/icons/citilink.png" width="25"/></a>
+
+<p><a href="https://t.me/palmeka">Я всегда на связи в Telegram</a> <a href="https://t.me/palmeka"><img src="images/icons/TGBig.png" alt="Telegram Icon" width="25" height="25"/></a>
 
 ## Мой стек технологий
 
