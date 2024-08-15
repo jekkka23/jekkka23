@@ -39,7 +39,7 @@
 > - **Allure TestOps**: Платформа для управления тестированием и анализа результатов тестов.
 ## **Примеры моих работ:**
 
-* [Проект в котором я использую весь стек технологий](https://github.com/jekkka23/citilink.ru)
+* <a href="https://github.com/jekkka23/citilink.ru" target="_blank">Проект в котором я использую весь стек технологий</a>
 
 * [Пример сборки в Jenkins](https://github.com/jekkka23/citilink.ru/tree/main?tab=readme-ov-file#%D1%81%D0%B1%D0%BE%D1%80%D0%BA%D0%B0-%D0%B2-jenkins)
 
