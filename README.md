@@ -1,6 +1,6 @@
 # Всем привет! Меня зовут Евгений 👋  <a href="https://t.me/palmeka"><img src="images/icons/TGBig.png" alt="Telegram Icon" width="25" height="25"/></a>
 
-<p>Я являюсь специалистом по автоматизации тестирования на Java! <img height="25" src="images/icons/java.svg" width="25"/></a> <br/>Мой опыт работы — 4 года.</p> 
+<p>Я являюсь специалистом по автоматизации тестирования на Java! <img height="25" src="images/icons/java.svg" width="25"/></a> <br/>Мой опыт работы — 6 лет.</p> 
  
 ><br/>Коммерческий опыт. Проекты для которых я разрабатывал автоматизацию тестирования:
 ><br/>
@@ -48,3 +48,4 @@
 * [Пример уведомлений ботом в Telegram о сборке](https://github.com/jekkka23/citilink.ru/tree/main?tab=readme-ov-file#-allure-%D0%BE%D1%82%D1%87%D0%B5%D1%82)
 
 * [Пример автоматической записи видео выполнения теста в Selenoid](https://github.com/jekkka23/citilink.ru/tree/main?tab=readme-ov-file#-allure-%D0%BE%D1%82%D1%87%D0%B5%D1%82)
+
