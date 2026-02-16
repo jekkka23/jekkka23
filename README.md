@@ -1,11 +1,13 @@
 # Всем привет! Меня зовут Евгений 👋  <a href="https://t.me/palmeka"><img src="images/icons/TGBig.png" alt="Telegram Icon" width="25" height="25"/></a>
 
-<p>Я являюсь специалистом по автоматизации тестирования на Java! <img height="25" src="images/icons/java.svg" width="25"/></a> <br/>Мой опыт работы — 6 лет.</p> 
+<p>Я являюсь специалистом по автоматизации тестирования на Java и JavaScript! Успешно выполнял роль Team Lead, отвечая за планирование, распределение ресурсов и соблюдение сроков <img height="25" src="images/icons/java.svg" width="25"/></a> <img height="25" src="images/icons/javascrip.svg" width="25"/></a> <br/>Мой опыт работы подтвержденный по ТК РФ — 6 лет.</p> 
  
 ><br/>Коммерческий опыт. Проекты для которых я разрабатывал автоматизацию тестирования:
 ><br/>
 <br/>- **SBER** <a href="https://www.sberbank.ru"><img height="25" src="images/icons/sbersber.png" width="25"/></a>
 <br/>- **Сitilink.ru** <a href="https://www.citilink.ru"><img height="25" src="images/icons/citilink.png" width="25"/></a>
+<br/>- **ГосУслуги** <a href="https://www.gosuslugi.ru"><img height="25" src="images/icons/gosuslugi.png" width="25"/></a>
+<br/>- **ОТП Банк** <a href="https://www.gosuslugi.ru"><img height="25" src="images/icons/otp.png" width="25"/></a>
 
 <p><a href="https://t.me/palmeka" target="_blank">Я всегда на связи в Telegram</a> <a href="https://t.me/palmeka"><img src="images/icons/TGBig.png" alt="Telegram Icon" width="25" height="25"/></a>
 
@@ -24,6 +26,7 @@
 <a href="https://www.jenkins.io/"><img src="images/icons/Jenkins.svg" width="50" height="50"  alt="Jenkins"/></a> 
 <a href="https://web.telegram.org/"><img src="images/icons/Telegram.svg" width="50" height="50"  alt="IDEA"/></a>  
 <a href="https://www.atlassian.com/ru/software/jira/"><img src="images/icons/jira.svg" width="50" height="50"  alt="Jira"/></a>  
+<a href="https://playwright.dev/"><img src="images/icons/Playwrite.svg" width="50" height="50"  alt="Playwright"/></a>  
   
 > - **IntelliJ IDEA**: Среда разработки для написания кода.
 > - **Java**: Основной язык программирования проекта.
