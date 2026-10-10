@@ -48,7 +48,7 @@
 > - **Playwright**: Библиотека для написания UI тестов и API.
 ## **Примеры моих работ:**
 
-* <a href="https://github.com/jekkka23/citilink.ru" target="_blank">Проект в котором я использую весь стек технологий</a>
+* <a href="https://github.com/jekkka23/citilink.ru" target="_blank">Проект в котором я использую весь стек технологий на Java</a>
 
 * <a href="https://github.com/jekkka23/labirint.ru" target="_blank">UI-автотесты Лабиринта на JavaScript и Playwright</a>
 
