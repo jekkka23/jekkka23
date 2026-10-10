@@ -1,4 +1,4 @@
-# Всем привет! Меня зовут Евгений 👋  <a href="https://t.me/palmeka"><img src="images/icons/TGBig.png" alt="Telegram Icon" width="25" height="25"/></a>
+# Всем привет! Меня зовут Евгений 👋  <a href="https://t.me/mihaeka"><img src="images/icons/TGBig.png" alt="Telegram Icon" width="25" height="25"/></a>
 
 <p>Я являюсь специалистом по автоматизации тестирования на Java и JavaScript! А так же успешно выполняю роль TeamLead, отвечая за планирование, распределение ресурсов и соблюдение сроков на государственном проекте ГосУслуги <img height="25" src="images/icons/java.svg" width="25"/></a> <img height="25" src="images/icons/javascrip.svg" width="25"/></a> <br/>Мой опыт работы подтвержденный по ТК РФ — 6 лет.</p> 
  
@@ -9,7 +9,7 @@
 <br/>- **ГосУслуги** <a href="https://www.gosuslugi.ru"><img height="25" src="images/icons/gosuslugi.png" width="25"/></a>
 <br/>- **ОТП Банк** <a href="https://www.otpbank.ru"><img height="25" src="images/icons/otp.png" width="25"/></a>
 
-<p><a href="https://t.me/palmeka" target="_blank">Я всегда на связи в Telegram</a> <a href="https://t.me/palmeka"><img src="images/icons/TGBig.png" alt="Telegram Icon" width="25" height="25"/></a>
+<p><a href="https://t.me/mihaeka" target="_blank">Я всегда на связи в Telegram</a> <a href="https://t.me/mihaeka"><img src="images/icons/TGBig.png" alt="Telegram Icon" width="25" height="25"/></a>
 
 ## Мой стек технологий
 
@@ -49,6 +49,8 @@
 ## **Примеры моих работ:**
 
 * <a href="https://github.com/jekkka23/citilink.ru" target="_blank">Проект в котором я использую весь стек технологий</a>
+
+* <a href="https://github.com/jekkka23/labirint.ru" target="_blank">UI-автотесты Лабиринта на JavaScript и Playwright</a>
 
 * [Пример сборки в Jenkins](https://github.com/jekkka23/citilink.ru/tree/main?tab=readme-ov-file#%D1%81%D0%B1%D0%BE%D1%80%D0%BA%D0%B0-%D0%B2-jenkins)
 
