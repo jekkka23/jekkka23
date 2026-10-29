@@ -11,6 +11,47 @@
 
 <p><a href="https://t.me/mihaeka" target="_blank">Я всегда на связи в Telegram</a> <a href="https://t.me/mihaeka"><img src="images/icons/TGBig.png" alt="Telegram Icon" width="25" height="25"/></a>
 
+<p>
+  <a href="https://palmekaprocode.ru"><img src="images/school/aqa-javascript-banner.svg" alt="Евгений Михайлов. Обучаю AQA на JavaScript и Playwright" width="1200" /></a>
+</p>
+
+## Обучаю автоматизации тестирования на JavaScript
+
+В моей школе PalmekaProCode разбираем JavaScript, пишем UI- и API-автотесты на Playwright и закрепляем материал практикой.
+
+Сайт школы: https://palmekaprocode.ru
+
+<p>
+  <a href="https://palmekaprocode.ru/program"><img src="images/school/school-program.svg" alt="Программа и обучение" width="244" height="46" /></a>
+  <a href="https://github.com/jekkka23/palmekaprocode-js-pw"><img src="images/school/course-code.svg" alt="Примеры кода" width="176" height="46" /></a>
+  <a href="https://t.me/mihaeka"><img src="images/school/telegram-question.svg" alt="Задать вопрос в Telegram" width="260" height="46" /></a>
+</p>
+
+### Посмотрите, как я объясняю
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <a href="https://www.youtube.com/watch?v=LQYv_3frQ3o"><img src="images/school/qa-aqa-fullstack.jpg" alt="Переход из QA в AQA и Fullstack" width="320" /></a><br />
+      <strong>Переход из QA в AQA и Fullstack</strong><br />
+      С чего начать обучение<br />
+      <a href="https://www.youtube.com/watch?v=LQYv_3frQ3o">Смотреть на YouTube</a>
+    </td>
+    <td width="33%" valign="top">
+      <a href="https://www.youtube.com/watch?v=18sg4mu51Lo"><img src="images/school/dom-xpath.jpg" alt="Локаторы, DOM и XPath" width="320" /></a><br />
+      <strong>Локаторы, DOM и XPath</strong><br />
+      Основы UI-автоматизации<br />
+      <a href="https://www.youtube.com/watch?v=18sg4mu51Lo">Смотреть на YouTube</a>
+    </td>
+    <td width="33%" valign="top">
+      <a href="https://www.youtube.com/watch?v=tTkAfiYF8Ws"><img src="images/school/first-playwright-test.jpg" alt="Первый запуск Playwright" width="320" /></a><br />
+      <strong>Первый запуск Playwright</strong><br />
+      От проекта до первого теста<br />
+      <a href="https://www.youtube.com/watch?v=tTkAfiYF8Ws">Смотреть на YouTube</a>
+    </td>
+  </tr>
+</table>
+
 ## Мой стек технологий
 
 <p align="center">  
