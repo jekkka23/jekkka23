@@ -25,11 +25,7 @@
 
 Сайт школы: https://palmekaprocode.ru
 
-<p>
-  <a href="https://palmekaprocode.ru/program"><img src="images/school/school-program.svg" alt="Программа и обучение" width="220" height="46" /></a>
-  <a href="https://github.com/jekkka23/palmekaprocode-js-pw"><img src="images/school/course-code.svg" alt="Учебный репозиторий школы" width="278" height="46" /></a>
-  <a href="https://t.me/mihaeka"><img src="images/school/telegram-question.svg" alt="Связаться со мной в Telegram" width="286" height="46" /></a>
-</p>
+<p align="center"><a href="https://palmekaprocode.ru/program" title="Программа и обучение"><picture><source media="(max-width: 374px)" srcset="images/school/school-program-compact.svg" /><source media="(max-width: 1011px)" srcset="images/school/school-program-mobile.svg" /><img src="images/school/school-program.svg" alt="Программа и обучение" /></picture></a><a href="https://github.com/jekkka23/palmekaprocode-js-pw" title="Учебный репозиторий школы"><picture><source media="(max-width: 374px)" srcset="images/school/course-code-compact.svg" /><source media="(max-width: 1011px)" srcset="images/school/course-code-mobile.svg" /><img src="images/school/course-code.svg" alt="Учебный репозиторий школы" /></picture></a><a href="https://t.me/mihaeka" title="Связаться со мной в Telegram"><picture><source media="(max-width: 374px)" srcset="images/school/telegram-question-compact.svg" /><source media="(max-width: 1011px)" srcset="images/school/telegram-question-mobile.svg" /><img src="images/school/telegram-question.svg" alt="Связаться со мной в Telegram" /></picture></a></p>
 
 ### Посмотрите, как я объясняю
 
