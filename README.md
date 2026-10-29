@@ -12,45 +12,47 @@
 <p><a href="https://t.me/mihaeka" target="_blank">Я всегда на связи в Telegram</a> <a href="https://t.me/mihaeka"><img src="images/icons/TGBig.png" alt="Telegram Icon" width="25" height="25"/></a>
 
 <p>
-  <a href="https://palmekaprocode.ru"><img src="images/school/aqa-javascript-banner.svg" alt="Евгений Михайлов. Обучаю AQA на JavaScript и Playwright" width="1200" /></a>
+  <a href="https://www.linkedin.com/in/%D0%B5%D0%B2%D0%B3%D0%B5%D0%BD%D0%B8%D0%B9-%D0%BC%D0%B8%D1%85%D0%B0%D0%B9%D0%BB%D0%BE%D0%B2-b2a2b7396/"><img src="images/profile/linkedin.svg" alt="LinkedIn - мой профессиональный опыт" width="420" /></a>
+  <a href="https://www.instagram.com/palm.eka"><img src="images/profile/instagram.svg" alt="Instagram - мой блог" width="420" /></a>
 </p>
 
-## Обучаю автоматизации тестирования на JavaScript
+<p>
+  <a href="https://palmekaprocode.ru"><img src="images/school/aqa-javascript-banner.svg" alt="Евгений Михайлов. Обучаю AQA на JavaScript. UI, API и БД" width="1200" /></a>
+</p>
 
-В моей школе PalmekaProCode разбираем JavaScript, пишем UI- и API-автотесты на Playwright и закрепляем материал практикой.
+<p><img src="images/school/school-topics.svg" alt="JavaScript, Playwright, UI и API, БД, практика" width="618" /></p>
+
+В моей школе PalmekaProCode разбираем JavaScript, пишем UI- и API-автотесты на Playwright, работаем с БД и закрепляем материал практикой.
 
 Сайт школы: https://palmekaprocode.ru
 
 <p>
-  <a href="https://palmekaprocode.ru/program"><img src="images/school/school-program.svg" alt="Программа и обучение" width="244" height="46" /></a>
-  <a href="https://github.com/jekkka23/palmekaprocode-js-pw"><img src="images/school/course-code.svg" alt="Примеры кода" width="176" height="46" /></a>
-  <a href="https://t.me/mihaeka"><img src="images/school/telegram-question.svg" alt="Задать вопрос в Telegram" width="260" height="46" /></a>
+  <a href="https://palmekaprocode.ru/program"><img src="images/school/school-program.svg" alt="Программа и обучение" width="220" height="46" /></a>
+  <a href="https://github.com/jekkka23/palmekaprocode-js-pw"><img src="images/school/course-code.svg" alt="Учебный репозиторий школы" width="278" height="46" /></a>
+  <a href="https://t.me/mihaeka"><img src="images/school/telegram-question.svg" alt="Связаться со мной в Telegram" width="286" height="46" /></a>
 </p>
 
 ### Посмотрите, как я объясняю
 
-<table>
-  <tr>
-    <td width="33%" valign="top">
-      <a href="https://www.youtube.com/watch?v=LQYv_3frQ3o"><img src="images/school/qa-aqa-fullstack.jpg" alt="Переход из QA в AQA и Fullstack" width="320" /></a><br />
-      <strong>Переход из QA в AQA и Fullstack</strong><br />
-      С чего начать обучение<br />
-      <a href="https://www.youtube.com/watch?v=LQYv_3frQ3o">Смотреть на YouTube</a>
-    </td>
-    <td width="33%" valign="top">
-      <a href="https://www.youtube.com/watch?v=18sg4mu51Lo"><img src="images/school/dom-xpath.jpg" alt="Локаторы, DOM и XPath" width="320" /></a><br />
-      <strong>Локаторы, DOM и XPath</strong><br />
-      Основы UI-автоматизации<br />
-      <a href="https://www.youtube.com/watch?v=18sg4mu51Lo">Смотреть на YouTube</a>
-    </td>
-    <td width="33%" valign="top">
-      <a href="https://www.youtube.com/watch?v=tTkAfiYF8Ws"><img src="images/school/first-playwright-test.jpg" alt="Первый запуск Playwright" width="320" /></a><br />
-      <strong>Первый запуск Playwright</strong><br />
-      От проекта до первого теста<br />
-      <a href="https://www.youtube.com/watch?v=tTkAfiYF8Ws">Смотреть на YouTube</a>
-    </td>
-  </tr>
-</table>
+Все 9 видео из текущего каталога школы.
+
+<p>
+  <a href="https://www.youtube.com/watch?v=DuwU8HUVNBM"><img src="images/school/video-DuwU8HUVNBM.webp" alt="Посмотрите, что вас ждет в школе тестирования. Смотреть на YouTube" width="32%" /></a>
+  <a href="https://www.youtube.com/watch?v=LQYv_3frQ3o"><img src="images/school/video-LQYv_3frQ3o.webp" alt="Переход из QA в AQA и Fullstack. Смотреть на YouTube" width="32%" /></a>
+  <a href="https://www.youtube.com/watch?v=18sg4mu51Lo"><img src="images/school/video-18sg4mu51Lo.webp" alt="Локатор, DOM и XPath с нуля. Смотреть на YouTube" width="32%" /></a>
+</p>
+
+<p>
+  <a href="https://www.youtube.com/watch?v=Sam917XsiFs"><img src="images/school/video-Sam917XsiFs.webp" alt="Переменные, типы и условия в JavaScript. Смотреть на YouTube" width="32%" /></a>
+  <a href="https://www.youtube.com/watch?v=Je40IPgPHSI"><img src="images/school/video-Je40IPgPHSI.webp" alt="Объекты и массивы в JavaScript. Смотреть на YouTube" width="32%" /></a>
+  <a href="https://www.youtube.com/watch?v=hgGvcCX5sRs"><img src="images/school/video-hgGvcCX5sRs.webp" alt="Функции и модули в JavaScript. Смотреть на YouTube" width="32%" /></a>
+</p>
+
+<p>
+  <a href="https://www.youtube.com/watch?v=K7n7gWzokoM"><img src="images/school/video-K7n7gWzokoM.webp" alt="Асинхронность и await в JavaScript. Смотреть на YouTube" width="32%" /></a>
+  <a href="https://www.youtube.com/watch?v=tTkAfiYF8Ws"><img src="images/school/video-tTkAfiYF8Ws.webp" alt="Проект и первый запуск Playwright. Смотреть на YouTube" width="32%" /></a>
+  <a href="https://www.youtube.com/watch?v=CFoAJ9BlnwU"><img src="images/school/video-CFoAJ9BlnwU.webp" alt="Команды Playwright для автотестов. Смотреть на YouTube" width="32%" /></a>
+</p>
 
 ## Мой стек технологий
 
