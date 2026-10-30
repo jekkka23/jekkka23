@@ -30,20 +30,20 @@
 ### Посмотрите, как я объясняю
 
 <p>
-  <a href="https://www.youtube.com/watch?v=LQYv_3frQ3o"><img src="images/school/video-LQYv_3frQ3o.webp" alt="Переход из QA в AQA и Fullstack. Смотреть на YouTube" width="32%" /></a>
-  <a href="https://www.youtube.com/watch?v=18sg4mu51Lo"><img src="images/school/video-18sg4mu51Lo.webp" alt="Локатор, DOM и XPath с нуля. Смотреть на YouTube" width="32%" /></a>
-  <a href="https://www.youtube.com/watch?v=Sam917XsiFs"><img src="images/school/video-Sam917XsiFs.webp" alt="Переменные, типы и условия в JavaScript. Смотреть на YouTube" width="32%" /></a>
+  <a href="https://www.youtube.com/watch?v=LQYv_3frQ3o"><img src="images/school/video-LQYv_3frQ3o.svg" alt="Переход из QA в AQA и Fullstack. Смотреть на YouTube" width="32%" /></a>
+  <a href="https://www.youtube.com/watch?v=18sg4mu51Lo"><img src="images/school/video-18sg4mu51Lo.svg" alt="Локатор, DOM и XPath с нуля. Смотреть на YouTube" width="32%" /></a>
+  <a href="https://www.youtube.com/watch?v=Sam917XsiFs"><img src="images/school/video-Sam917XsiFs.svg" alt="Переменные, типы и условия в JavaScript. Смотреть на YouTube" width="32%" /></a>
 </p>
 
 <p>
-  <a href="https://www.youtube.com/watch?v=Je40IPgPHSI"><img src="images/school/video-Je40IPgPHSI.webp" alt="Объекты и массивы в JavaScript. Смотреть на YouTube" width="32%" /></a>
-  <a href="https://www.youtube.com/watch?v=hgGvcCX5sRs"><img src="images/school/video-hgGvcCX5sRs.webp" alt="Функции и модули в JavaScript. Смотреть на YouTube" width="32%" /></a>
-  <a href="https://www.youtube.com/watch?v=K7n7gWzokoM"><img src="images/school/video-K7n7gWzokoM.webp" alt="Асинхронность и await в JavaScript. Смотреть на YouTube" width="32%" /></a>
+  <a href="https://www.youtube.com/watch?v=Je40IPgPHSI"><img src="images/school/video-Je40IPgPHSI.svg" alt="Объекты и массивы в JavaScript. Смотреть на YouTube" width="32%" /></a>
+  <a href="https://www.youtube.com/watch?v=hgGvcCX5sRs"><img src="images/school/video-hgGvcCX5sRs.svg" alt="Функции и модули в JavaScript. Смотреть на YouTube" width="32%" /></a>
+  <a href="https://www.youtube.com/watch?v=K7n7gWzokoM"><img src="images/school/video-K7n7gWzokoM.svg" alt="Асинхронность и await в JavaScript. Смотреть на YouTube" width="32%" /></a>
 </p>
 
 <p>
-  <a href="https://www.youtube.com/watch?v=tTkAfiYF8Ws"><img src="images/school/video-tTkAfiYF8Ws.webp" alt="Проект и первый запуск Playwright. Смотреть на YouTube" width="32%" /></a>
-  <a href="https://www.youtube.com/watch?v=CFoAJ9BlnwU"><img src="images/school/video-CFoAJ9BlnwU.webp" alt="Команды Playwright для автотестов. Смотреть на YouTube" width="32%" /></a>
+  <a href="https://www.youtube.com/watch?v=tTkAfiYF8Ws"><img src="images/school/video-tTkAfiYF8Ws.svg" alt="Проект и первый запуск Playwright. Смотреть на YouTube" width="32%" /></a>
+  <a href="https://www.youtube.com/watch?v=CFoAJ9BlnwU"><img src="images/school/video-CFoAJ9BlnwU.svg" alt="Команды Playwright для автотестов. Смотреть на YouTube" width="32%" /></a>
 </p>
 
 ## Мой стек технологий
