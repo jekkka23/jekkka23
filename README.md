@@ -1,6 +1,6 @@
 # Всем привет! Меня зовут Евгений 👋  <a href="https://t.me/mihaeka"><img src="images/icons/TGBig.png" alt="Telegram Icon" width="25" height="25"/></a>
 
-<p>Я являюсь специалистом по автоматизации тестирования на Java и JavaScript! А так же успешно выполняю роль TeamLead на государственном проекте ГосУслуги <a href="https://www.gosuslugi.ru"><img height="25" src="images/icons/gosuslugi.png" width="25"/></a>, отвечая за планирование, распределение ресурсов и соблюдение сроков. <img height="25" src="images/icons/java.svg" width="25"/></a> <img height="25" src="images/icons/javascrip.svg" width="25"/></a> <br/>Мой опыт работы подтвержденный по ТК РФ — 6 лет.</p>
+<p>Я являюсь специалистом по автоматизации тестирования на Java и JavaScript! А так же успешно выполняю роль TeamLead на государственном проекте ГосУслуги, отвечая за планирование, распределение ресурсов и соблюдение сроков. <a href="https://www.gosuslugi.ru"><img height="25" src="images/icons/gosuslugi.png" width="25"/></a> <img height="25" src="images/icons/java.svg" width="25"/></a> <img height="25" src="images/icons/javascrip.svg" width="25"/></a> <br/>Мой опыт работы подтвержденный по ТК РФ — 6 лет.</p>
  
 ><br/>Коммерческий опыт. Проекты для которых я разрабатывал автоматизацию тестирования:
 ><br/>
